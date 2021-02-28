@@ -1,0 +1,4 @@
+*.pyc
+*.sqlite
+*.swp
+__pycache__
